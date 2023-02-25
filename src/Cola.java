@@ -2,7 +2,7 @@
  * Clase para gestionar una cola
  * Esta clase se entrega desarrollada, pero se tiene que modificar para que la cola tenga String como
  * elementos en vez de int
- *prueba 
+ *prueba 2
  * @author Pilar Martinez Garcia
  * @version 1.0
  */
